@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cachefonnect",
+        "uuid": 10306350,
+        "checksum": "0wbw1n"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
